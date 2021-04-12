@@ -1,0 +1,18 @@
+Metodologija upravljanje projektima - knjiga
+
+Integracije: 
+
+1. Upravljanje projektima - podrazumeva planiranja, rasporedjivanja i kontrole rada
+2. Upravljanje kvalitetom - proces koji treba da osigura da krajnji rezultat ispuni ocekivanja potrosaca u pogledu kvaliteta
+3. Paralelna realizacija - odnosi se na izvrsavanje posla u cilju realizacije aktivnosti u kracem vremenskom roku, bez ukljucivanja dodatnih rizika
+4. Upravljanje promenama - proces kontrole krajnjeg rezultata kako bi se obezbedila dodatna vrednost za korisnike 
+5. Upravljanje rizikom - podrazumeva identifikovanje, ocenjivanja i reagovanja na moguce projekte rizike, bez uticaja na ciljeve projekta 
+
+Karakteristike:
+ 
+optimalan nivo udaljenosti 
+upotreba sablona 
+standardizovane tehnike planiranja, rasporedjivanja i kontrole troskova 
+fleksibilna primena i fleksibilnost za usavrsavanje 
+prihvatljivost 
+koriscenje standardizovanih faza zivotnog ciklusa  

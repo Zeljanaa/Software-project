@@ -1,0 +1,8 @@
+Univerzalne komponente:
+1. Task board ---- upravljanje obimom projekta i rasporedom rada
+   1.1 Issues
+2. Backlog ---- upravljanje obimom projekta i rasporedom rada
+3. Report ---- upravljanje obimom projekta i rasporedom rada
+4. Risk management board ---- upravljanje rizicima
+   4.1 Risk navigator
+   4.2 Risk chart

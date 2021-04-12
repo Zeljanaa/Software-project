@@ -1,0 +1,5 @@
+Univerzalne komponente:
+	Chat, message board----upravljanje komunikacijom
+	activity tracker ---- upravljanje kvalitetom
+	kalendar,to-do(vremensko pracenje izrade projekta) ---- upravljanje resursima(vreme)
+	to-do,kalendar(Podela zadataka po timovima, i dodela zadataka clanovima tima) ---- upravljanje resursima(ljudski resursi)

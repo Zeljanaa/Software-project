@@ -1,0 +1,6 @@
+1. definise (ko, sta, gde, kako) 
+2. planira razvoj 
+3. Sprint(rok, planning, pregled, retrospective, backlog, product) 
+4. paznja na tehnicke detalje i dizajn 
+5. fleksibilnost 
+6. kontrinuirano usavrsavanje

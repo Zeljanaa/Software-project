@@ -1,0 +1,56 @@
+Tip - Nefunkcionalni zahtevi:
+
+1. Performanse
+Web sajt za upravljanje projektima treba da bude postavljen na server sa brzim odzivom.
+
+2. Bezbednost
+Bice postavljena ogranicenja u odnosu na ulogu korisnika.
+
+3. Pouzdanost
+Do iznenadnog prestanka rada sistema moze doci ukoliko padne server.
+
+
+Tip - Funkcionalni zahtevi:
+
+1. Upravljanje troskovima (Neophodno je da sistem omoguci uvid u troskove, kao i njihovo upravljanje)
+	Prioritet - visok
+	Zainteresovane strane - operativni korisnik
+	Rizik - visok
+	Status - definisan
+	Procena napora - nedefinisan
+
+ 
+2. Pracenje aktivnosti (Sistem treba da omoguci aktiviti track-aktivan,zavrsen, pauziran...)
+	Prioritet - srednji
+	Zainteresovane strane - operativni korisnik
+	Rizik - srednji 
+	Status - definisan
+	Procena napora - nedefinisan
+
+3. Kreiranje projekata 
+	Prioritet - visok
+	Zainteresovane strane - operativni korisnik
+	Rizik - visok
+	Status - nedefinisan
+	Procena napora - nedefinisan
+
+4. Upravljanje resursima (Neophodno je da sistem omoguci uvid u resurse, kao i njihovu izmenu)
+	Prioritet - visok
+	Zainteresovane strane - operativni korisnik
+	Rizik - visok
+	Status - definisan
+	Procena napora - nedefinisan
+
+5. Komunikacija medju clanovima(Neophodno je omoguciti komunikaciju izmenju clanova tima)
+	Prioritet - visok
+	Zainteresovane strane - operativni korisnik
+	Rizik - visok
+	Status - definisan
+	Procena napora - nedefinisan
+
+6. Upravljanje kvalitetom projekta(Sistem treba da omoguci proveru kvaliteta tokom izrade projekta)
+	Prioritet - visok
+	Zainteresovane strane - operativni korisnik
+	Rizik - visok
+	Status - definisan
+	Procena napora - nedefinisan

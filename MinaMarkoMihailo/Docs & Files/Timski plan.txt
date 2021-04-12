@@ -1,0 +1,22 @@
+Lokalni plan
+
+1. Faza
+Funkcionalni i nefunkcionalni zahtevi za framework (Marko Zahorodni, 2 dana)
+Dopuna zahteva za framework (Mina Gusman, Mihailo Jankov, 2 dana)
+
+2. Faza
+Klasni dijagram za framework (Marko Zahorodni, 3 dana)
+Dijagram slucajeva upotrebe za framework (Mina Gusman, 3 dana)
+Dijagram komponenti za framework (Marko Zahorodni, 3 dana)
+Dijagram aktivnosti za framework (Mihailo Jankov, 3 dana)
+
+3. Faza
+Razvoj prototipa glavnog frejmvorka (Mina, Marko, Mihailo, 7 dana)
+Testiranje (Mina, Marko, Mihailo, 7 dana-uporedno sa razvijanjem)
+
+4. Faza
+Instalacija prototipa frejmvorka (Mina, Marko, Mihailo, 7 dana)
+Merge na platformi Git (Mihailo Jankov, 1 dan)
+
+5. Faza
+Kreativno izlaganje clanova tima

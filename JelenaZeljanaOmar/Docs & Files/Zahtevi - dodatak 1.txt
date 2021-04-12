@@ -1,0 +1,6 @@
+Funkcionalni zahtjevi:
+1. Unos radnog vremena 
+- Korisnik unosi broj sati koliko je radio, da bi se pratila njegova kompletna aktivnost. 
+2. Kreiranje izvjestaja o sprintovima
+- Prati koliko je posla odradjeno u sprintu, poredi se sa ukupnim opsegom posla i na osnovu toga se saznaje da li ce se sprint zavrsiti u zadato rijeme.
+3. Korisnici mogu da mijenaju zadatke, dodaju komentare, sagledaju tempo koji se racuna na osnovu unesenog radnog vremena. Dodaju oznake koje pokazuju koliko je zadatak zahtjevan.

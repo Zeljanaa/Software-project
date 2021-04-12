@@ -1,0 +1,43 @@
+* Funkcionalni zahtevi:	
+1. Zahtevi korisnika
+	- Multifunkcionalan projekat
+
+2. Dokumentacija
+	- Opis projekta u cilju definisanja svih funkcionalnosti koje projekat podržava
+
+3. Administrativne funkcije
+	- Dodavanje korisnika u sistem, upravljanje podacima
+	- Ažuriranje podataka, bitnih za poslovanje sistema
+
+4. Nivoi ovlašćenja
+	- Jasno definisani tipovi korisnika i ovlašćenja, u zavisnosti od uloge
+
+5. Upravljanje komunikacijom
+	- Kolaboracija tima koja daje efektivne rezultate i mogućnost realizacije projekta u datom roku
+	- Koordinacija tima u cilju pružanja kvalitetnih usluga korisnicima
+
+6. Upravljanje projektom
+	- Efikasno korišćenje vremena, resursa, napora i troškova u cilju realizacije projekta
+
+7. Testiranje projekta
+	-Unit, Integraciono, Sistemsko testiranje
+
+* Nefunkcionalni zahtevi:
+1. Performanse 
+	-Sistem je postavljen na server koji omogućuje brzu reakciju na korisničke akcije
+
+2. Bezbednost
+	- Zaštita podataka o korisniku, sprečavanje preklapanja podataka različitih korisničkih grupa
+
+3. Infrastruktura
+	- Infrastuktura ima osobine skalabilnosti radi proširivosti sistema po potrebi
+
+4. Pouzdanost
+        - Iznenadni prestanak rada sistema dešava se isključivo kao posledica grešaka u radu operativnog
+	  sistema korisnika ili problema vezanih za funkcionisanje servera
+
+5. Održivost
+
+6. Korisnost
+
+7. Dostupnost
